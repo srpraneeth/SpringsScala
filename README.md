@@ -10,3 +10,6 @@ To build and Start the application.
 
 cd SpringsScala/
 mvn spring-boot:run
+
+Blog
+https://dzone.com/articles/spring-web-services-with-scala
